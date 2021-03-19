@@ -1,0 +1,6 @@
+> The examples shows Named Return Value Optimzation & Return Value Optimzation
+> Optimizations are performed by the compilers
+> This is generally known as copy elision, which became standard across 
+ commercial grade compilers
+> This feature can be disabled. 
+> From C++17 onwards, copy elision is guarenteed by language.
