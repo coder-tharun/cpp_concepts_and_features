@@ -1,0 +1,6 @@
+> Function overload applies in the same scope
+> In the derived class, base class function is shadowed. 
+> On Similar lines, if we have different number of arguments in base class, 
+  than in the base class with overload function, this will result into compilation
+  error. As base function is shadowed. 
+> We can overcome shadow by explicitly specifiying the scope with base object. 
